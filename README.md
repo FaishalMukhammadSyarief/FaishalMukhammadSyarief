@@ -28,7 +28,7 @@
 
 ###
 
-<h3 align="left">🛠 Currently Learning</h3>
+<h3 align="left">:teacher: Currently Learning</h3>
 
 ###
 
