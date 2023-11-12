@@ -20,7 +20,7 @@
 
 ###
 
-<h3 align="left">:technologist:  About Me</h3>
+<h2 align="left">:technologist:  About Me</h2>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<h3 align="left">:memo: Currently Learning</h3>
+<h2 align="left">:memo: Currently Learning</h2>
 
 ###
 
@@ -42,7 +42,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="left">🔥   My Stats :</h2>
 
 ###
 
