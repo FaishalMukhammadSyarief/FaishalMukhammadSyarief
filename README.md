@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faishal Mukhammad Syarief</h1>
 
 <div align="center">
-  <img height="300" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif"  />
+  <img height="500" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif"  />
 </div>
 
 ###
