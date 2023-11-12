@@ -7,11 +7,13 @@
 ###
 
 <div align="center">
+  <a href="https://www.instagram.com/_zhalz_/">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E1306C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <a href="https://www.youtube.com/@faishalmukhammadsyarief5170" target="_blank">
+  </a>
+  <a href="https://www.youtube.com/@faishalmukhammadsyarief5170">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
-  <a href="mailto:faishalmukhammadsyarief@gmail.com" target="_blank">
+  <a href="mailto:faishalmukhammadsyarief@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=DB4437&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
