@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">:memo: Currently Learning</h2>
+<h2 align="left">:hammer_and_wrench: Tools</h2>
 
 ###
 
@@ -23,12 +23,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
 ###
 
-<h2 align="left">🔥   My Stats :</h2>
+<h2 align="left">🔥   My Stats</h2>
 
 ###
 
