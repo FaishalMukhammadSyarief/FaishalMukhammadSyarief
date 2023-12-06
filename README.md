@@ -38,5 +38,5 @@
 ###
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=faishalmukhammadsyarief&icon=2&color=1" alt="Visit Count" />
+  <img src="https://visitcount.itsvg.in/api?id=faishalmukhammadsyarief&icon=2&color=1&theme=dark" alt="Visit Count" />
 </div>
