@@ -32,9 +32,11 @@
 ###
 
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=FaishalMukhammadSyarief&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=FaishalMukhammadSyarief&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
-[![](https://visitcount.itsvg.in/api?id=faishalmukhammadsyarief&icon=2&color=1)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=faishalmukhammadsyarief&icon=2&color=1" alt="Visit Count" />
+</div>
